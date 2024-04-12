@@ -16,10 +16,11 @@
 * tulip
   
 ###  I used Convnext model and got almost 96 persend accuracy that you can find code and the model.
+
 * Code
 * Model
 
-The data that is used to train model :
-* Data
+## You can download the dataset using notebock it self.
 
+Notebock
 
