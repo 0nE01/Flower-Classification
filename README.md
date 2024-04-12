@@ -17,8 +17,8 @@
   
 ###  I used Convnext model and got almost 96 persend accuracy that you can find code and the model.
 
-* Code
-* Model
+* [Code](https://github.com/0nE01/Flower-Classification/blob/main/Code/Flower_Classification.ipynb)
+* [Model](https://drive.google.com/file/d/1hPiFCh_oRgxaOH5fTjuAD1tu0sTLGidg/view?usp=drive_link)
 
 ## You can download the dataset using link below.
 
