@@ -20,7 +20,7 @@
 * Code
 * Model
 
-## You can download the dataset using notebock it self.
+## You can download the dataset using link below.
 
-Notebock
+[Data](https://drive.google.com/file/d/1VcbD7aIt-hcdkPGlZRluc6FXwkA-BczZ/view?usp=drive_link)
 
