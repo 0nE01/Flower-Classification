@@ -10,7 +10,7 @@
 
 ### In our big world we have lots of flowers with each of them have their unique shape and color and we can agree on that every kind of flowers are beautiful in their own way 🌼
 ### As you may have guessed this repo is all about flowers 🎇
-### In this repo i trained a simple model that is capable of classify flower images into 4 class :
+### I trained a simple model that is capable of classify flower images into 4 class :
 |  classes  | 
 | ------------- | 
 | Daisy 🌼|
@@ -30,7 +30,8 @@ You can see here how well model is working
 
 I've got 96 persend accuracy that I think is good :D
 
-the class that model will predicate is on top right side of gif
+The class that model will predicate is on top right side of gif
+
 ![ezgif com-video-to-gif-converter](https://github.com/0nE01/Flower-Classification/assets/127254729/ec6c060a-ccf4-4d71-90a5-0b3e7f8f582e)
 
 Dataset/Model
@@ -41,8 +42,9 @@ Dataset/Model
 [Dataset](https://drive.google.com/file/d/1VcbD7aIt-hcdkPGlZRluc6FXwkA-BczZ/view?usp=drive_link) 
 
 
-### you can download the model that I trianed using link below.
+### You can download the model that I trianed using link below.
 
 [Model](https://drive.google.com/file/d/1hPiFCh_oRgxaOH5fTjuAD1tu0sTLGidg/view?usp=drive_link)
 
-
+## Spread the word
+If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
