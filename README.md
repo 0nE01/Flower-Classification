@@ -39,12 +39,12 @@ Dataset/Model
 
 ### You can download the dataset using link below.
    
-[Dataset](https://drive.google.com/file/d/1VcbD7aIt-hcdkPGlZRluc6FXwkA-BczZ/view?usp=drive_link) 
-
+| [Dataset](https://drive.google.com/file/d/1VcbD7aIt-hcdkPGlZRluc6FXwkA-BczZ/view?usp=drive_link) |
+| ----- |
 
 ### You can download the model that I trianed using link below.
 
-[Model](https://drive.google.com/file/d/1hPiFCh_oRgxaOH5fTjuAD1tu0sTLGidg/view?usp=drive_link)
-
+| [Model](https://drive.google.com/file/d/1hPiFCh_oRgxaOH5fTjuAD1tu0sTLGidg/view?usp=drive_link) |
+| ----- |
 ## Spread the word
 #### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
