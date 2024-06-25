@@ -18,11 +18,11 @@
 | Sunflower🌻 |
 | Tulip 🌷|
 
-There's plenty of things that you can learn in this repo such as:
-* Learn to use different pytorch functions and methods 💪
-* Learn how to classify images using pytorch ✨
-* Learn Transfer Learning using pytorch 🤖
-* Learn to work with image data in pytorch 📷
+#### There's plenty of things that you can learn in this repo such as:
+* **Learn to use different pytorch functions and methods** 💪
+* **Learn how to classify images using pytorch** ✨
+* **Learn Transfer Learning using pytorch** 🤖
+* **Learn to work with image data in pytorch** 📷
   
 Resulte
 ----
