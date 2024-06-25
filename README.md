@@ -47,4 +47,4 @@ Dataset/Model
 | [Model](https://drive.google.com/file/d/1hPiFCh_oRgxaOH5fTjuAD1tu0sTLGidg/view?usp=drive_link) |
 | ----- |
 ## Spread the word
-#### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
+### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
